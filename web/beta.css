@@ -1,0 +1,19 @@
+
+body {
+  background-color: #111;
+  font-family: 'Open Sans', 'Arial', sans-serif;
+  color: #d3d3d3;
+  margin: 0px;
+}
+
+a:link {
+  color: #76c0de;
+  text-decoration: none;
+}
+
+#credits {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  opacity: 0.85;
+}
